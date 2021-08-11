@@ -19,11 +19,11 @@
 Before clicking on deploy to heroku just click on fork and star just below
 
 <p align="center">
-  <a href="https://github.com/MRK-YT/MT-GroupMusic-Bot/fork">
+  <a href="https://github.com/Kiran7994/musicbot">
     <img src="https://img.shields.io/github/forks/MRK-YT/MT-GroupMusic-Bot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/MRK-YT/MT-GroupMusic-Bot">
+  <a href="https://github.com/Kiran7994/musicbot">
     <img src="https://img.shields.io/github/stars/MoTechYT/MT-GroupMusic-Bot?style=social">
   </a>
 </p>
